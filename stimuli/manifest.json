@@ -1,55 +1,11 @@
 [
  {
-  "item_id": "I01",
-  "filename": "seq_000030.jpg",
-  "frame": 30,
-  "true_count": 33,
-  "answer_cell": 3,
-  "attr_ja": "紺の服の人",
-  "head_x": 454.8,
-  "head_y": 126.3,
-  "head_px": 12.3,
-  "images": {
-   "d0": "I01_d0.jpg",
-   "down1": "I01_down1.jpg",
-   "down1_r": "I01_down1_r.jpg",
-   "down2": "I01_down2.jpg",
-   "down2_r": "I01_down2_r.jpg",
-   "down3": "I01_down3.jpg",
-   "down3_r": "I01_down3_r.jpg",
-   "down4": "I01_down4.jpg",
-   "down4_r": "I01_down4_r.jpg",
-   "blur1": "I01_blur1.jpg",
-   "blur1_r": "I01_blur1_r.jpg",
-   "blur2": "I01_blur2.jpg",
-   "blur2_r": "I01_blur2_r.jpg",
-   "blur3": "I01_blur3.jpg",
-   "blur3_r": "I01_blur3_r.jpg",
-   "blur4": "I01_blur4.jpg",
-   "blur4_r": "I01_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I02",
+  "item_id": "J01",
   "filename": "seq_000435.jpg",
   "frame": 435,
   "true_count": 43,
   "answer_cell": 4,
-  "attr_ja": "黄の服の人",
+  "attr_ja": "黄色い大きなバッグを提げた人",
   "head_x": 143.4,
   "head_y": 249.6,
   "head_px": 17.9,
@@ -88,56 +44,12 @@
   }
  },
  {
-  "item_id": "I03",
-  "filename": "seq_000638.jpg",
-  "frame": 638,
-  "true_count": 34,
-  "answer_cell": 1,
-  "attr_ja": "黄の服の人",
-  "head_x": 177.8,
-  "head_y": 104.1,
-  "head_px": 11.3,
-  "images": {
-   "d0": "I03_d0.jpg",
-   "down1": "I03_down1.jpg",
-   "down1_r": "I03_down1_r.jpg",
-   "down2": "I03_down2.jpg",
-   "down2_r": "I03_down2_r.jpg",
-   "down3": "I03_down3.jpg",
-   "down3_r": "I03_down3_r.jpg",
-   "down4": "I03_down4.jpg",
-   "down4_r": "I03_down4_r.jpg",
-   "blur1": "I03_blur1.jpg",
-   "blur1_r": "I03_blur1_r.jpg",
-   "blur2": "I03_blur2.jpg",
-   "blur2_r": "I03_blur2_r.jpg",
-   "blur3": "I03_blur3.jpg",
-   "blur3_r": "I03_blur3_r.jpg",
-   "blur4": "I03_blur4.jpg",
-   "blur4_r": "I03_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I04",
+  "item_id": "J02",
   "filename": "seq_000699.jpg",
   "frame": 699,
   "true_count": 32,
   "answer_cell": 4,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "水色のシャツの人",
   "head_x": 105.7,
   "head_y": 254.3,
   "head_px": 18.1,
@@ -176,12 +88,36 @@
   }
  },
  {
-  "item_id": "I05",
+  "item_id": "J03",
+  "filename": "seq_000708.jpg",
+  "true_count": 37,
+  "answer_cell": 8,
+  "attr_ja": "赤と白のストライプのシャツの人",
+  "head_x": 252.7,
+  "head_y": 367.3,
+  "head_px": 23.3,
+  "levels": {
+   "down": [
+    2,
+    6,
+    11,
+    16
+   ],
+   "blur": [
+    1.0,
+    3.0,
+    6.0,
+    10.0
+   ]
+  }
+ },
+ {
+  "item_id": "J04",
   "filename": "seq_000750.jpg",
   "frame": 750,
   "true_count": 42,
   "answer_cell": 4,
-  "attr_ja": "水色の服の人",
+  "attr_ja": "緑色の上着の人",
   "head_x": 28.4,
   "head_y": 250.0,
   "head_px": 17.9,
@@ -220,12 +156,12 @@
   }
  },
  {
-  "item_id": "I06",
+  "item_id": "J05",
   "filename": "seq_000758.jpg",
   "frame": 758,
   "true_count": 41,
   "answer_cell": 1,
-  "attr_ja": "水色の服の人",
+  "attr_ja": "緑色の上着の人",
   "head_x": 184.6,
   "head_y": 120.5,
   "head_px": 12.0,
@@ -264,34 +200,14 @@
   }
  },
  {
-  "item_id": "I07",
-  "filename": "seq_001028.jpg",
-  "frame": 1028,
-  "true_count": 36,
-  "answer_cell": 2,
-  "attr_ja": "紺の服の人",
-  "head_x": 260.0,
-  "head_y": 131.3,
-  "head_px": 12.5,
-  "images": {
-   "d0": "I07_d0.jpg",
-   "down1": "I07_down1.jpg",
-   "down1_r": "I07_down1_r.jpg",
-   "down2": "I07_down2.jpg",
-   "down2_r": "I07_down2_r.jpg",
-   "down3": "I07_down3.jpg",
-   "down3_r": "I07_down3_r.jpg",
-   "down4": "I07_down4.jpg",
-   "down4_r": "I07_down4_r.jpg",
-   "blur1": "I07_blur1.jpg",
-   "blur1_r": "I07_blur1_r.jpg",
-   "blur2": "I07_blur2.jpg",
-   "blur2_r": "I07_blur2_r.jpg",
-   "blur3": "I07_blur3.jpg",
-   "blur3_r": "I07_blur3_r.jpg",
-   "blur4": "I07_blur4.jpg",
-   "blur4_r": "I07_blur4_r.jpg"
-  },
+  "item_id": "J06",
+  "filename": "seq_000834.jpg",
+  "true_count": 29,
+  "answer_cell": 8,
+  "attr_ja": "赤と白のストライプのシャツの人",
+  "head_x": 287.5,
+  "head_y": 346.5,
+  "head_px": 22.3,
   "levels": {
    "down": [
     2,
@@ -308,12 +224,36 @@
   }
  },
  {
-  "item_id": "I08",
+  "item_id": "J07",
+  "filename": "seq_000960.jpg",
+  "true_count": 42,
+  "answer_cell": 8,
+  "attr_ja": "赤と白のストライプのシャツの人",
+  "head_x": 311.0,
+  "head_y": 353.9,
+  "head_px": 22.7,
+  "levels": {
+   "down": [
+    2,
+    6,
+    11,
+    16
+   ],
+   "blur": [
+    1.0,
+    3.0,
+    6.0,
+    10.0
+   ]
+  }
+ },
+ {
+  "item_id": "J08",
   "filename": "seq_001146.jpg",
   "frame": 1146,
   "true_count": 39,
   "answer_cell": 6,
-  "attr_ja": "暗い緑の服の人",
+  "attr_ja": "ピンクの上着の人",
   "head_x": 587.1,
   "head_y": 222.6,
   "head_px": 16.7,
@@ -352,12 +292,12 @@
   }
  },
  {
-  "item_id": "I09",
+  "item_id": "J09",
   "filename": "seq_001147.jpg",
   "frame": 1147,
   "true_count": 37,
   "answer_cell": 6,
-  "attr_ja": "暗い緑の服の人",
+  "attr_ja": "緑色のTシャツの人",
   "head_x": 563.0,
   "head_y": 199.1,
   "head_px": 15.6,
@@ -396,56 +336,12 @@
   }
  },
  {
-  "item_id": "I10",
-  "filename": "seq_001154.jpg",
-  "frame": 1154,
-  "true_count": 42,
-  "answer_cell": 2,
-  "attr_ja": "緑の服の人",
-  "head_x": 275.4,
-  "head_y": 102.3,
-  "head_px": 11.2,
-  "images": {
-   "d0": "I10_d0.jpg",
-   "down1": "I10_down1.jpg",
-   "down1_r": "I10_down1_r.jpg",
-   "down2": "I10_down2.jpg",
-   "down2_r": "I10_down2_r.jpg",
-   "down3": "I10_down3.jpg",
-   "down3_r": "I10_down3_r.jpg",
-   "down4": "I10_down4.jpg",
-   "down4_r": "I10_down4_r.jpg",
-   "blur1": "I10_blur1.jpg",
-   "blur1_r": "I10_blur1_r.jpg",
-   "blur2": "I10_blur2.jpg",
-   "blur2_r": "I10_blur2_r.jpg",
-   "blur3": "I10_blur3.jpg",
-   "blur3_r": "I10_blur3_r.jpg",
-   "blur4": "I10_blur4.jpg",
-   "blur4_r": "I10_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I11",
+  "item_id": "J10",
   "filename": "seq_001627.jpg",
   "frame": 1627,
   "true_count": 42,
   "answer_cell": 4,
-  "attr_ja": "黄の服の人",
+  "attr_ja": "黄色いシャツの人",
   "head_x": 52.7,
   "head_y": 273.1,
   "head_px": 19.0,
@@ -484,188 +380,12 @@
   }
  },
  {
-  "item_id": "I12",
-  "filename": "seq_001628.jpg",
-  "frame": 1628,
-  "true_count": 43,
-  "answer_cell": 4,
-  "attr_ja": "黄の服の人",
-  "head_x": 94.4,
-  "head_y": 243.5,
-  "head_px": 17.6,
-  "images": {
-   "d0": "I12_d0.jpg",
-   "down1": "I12_down1.jpg",
-   "down1_r": "I12_down1_r.jpg",
-   "down2": "I12_down2.jpg",
-   "down2_r": "I12_down2_r.jpg",
-   "down3": "I12_down3.jpg",
-   "down3_r": "I12_down3_r.jpg",
-   "down4": "I12_down4.jpg",
-   "down4_r": "I12_down4_r.jpg",
-   "blur1": "I12_blur1.jpg",
-   "blur1_r": "I12_blur1_r.jpg",
-   "blur2": "I12_blur2.jpg",
-   "blur2_r": "I12_blur2_r.jpg",
-   "blur3": "I12_blur3.jpg",
-   "blur3_r": "I12_blur3_r.jpg",
-   "blur4": "I12_blur4.jpg",
-   "blur4_r": "I12_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I13",
-  "filename": "seq_001629.jpg",
-  "frame": 1629,
-  "true_count": 41,
-  "answer_cell": 4,
-  "attr_ja": "黄の服の人",
-  "head_x": 126.0,
-  "head_y": 227.4,
-  "head_px": 16.9,
-  "images": {
-   "d0": "I13_d0.jpg",
-   "down1": "I13_down1.jpg",
-   "down1_r": "I13_down1_r.jpg",
-   "down2": "I13_down2.jpg",
-   "down2_r": "I13_down2_r.jpg",
-   "down3": "I13_down3.jpg",
-   "down3_r": "I13_down3_r.jpg",
-   "down4": "I13_down4.jpg",
-   "down4_r": "I13_down4_r.jpg",
-   "blur1": "I13_blur1.jpg",
-   "blur1_r": "I13_blur1_r.jpg",
-   "blur2": "I13_blur2.jpg",
-   "blur2_r": "I13_blur2_r.jpg",
-   "blur3": "I13_blur3.jpg",
-   "blur3_r": "I13_blur3_r.jpg",
-   "blur4": "I13_blur4.jpg",
-   "blur4_r": "I13_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I14",
-  "filename": "seq_001642.jpg",
-  "frame": 1642,
-  "true_count": 40,
-  "answer_cell": 3,
-  "attr_ja": "紺の服の人",
-  "head_x": 476.0,
-  "head_y": 137.9,
-  "head_px": 12.8,
-  "images": {
-   "d0": "I14_d0.jpg",
-   "down1": "I14_down1.jpg",
-   "down1_r": "I14_down1_r.jpg",
-   "down2": "I14_down2.jpg",
-   "down2_r": "I14_down2_r.jpg",
-   "down3": "I14_down3.jpg",
-   "down3_r": "I14_down3_r.jpg",
-   "down4": "I14_down4.jpg",
-   "down4_r": "I14_down4_r.jpg",
-   "blur1": "I14_blur1.jpg",
-   "blur1_r": "I14_blur1_r.jpg",
-   "blur2": "I14_blur2.jpg",
-   "blur2_r": "I14_blur2_r.jpg",
-   "blur3": "I14_blur3.jpg",
-   "blur3_r": "I14_blur3_r.jpg",
-   "blur4": "I14_blur4.jpg",
-   "blur4_r": "I14_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I15",
-  "filename": "seq_001660.jpg",
-  "frame": 1660,
-  "true_count": 34,
-  "answer_cell": 3,
-  "attr_ja": "緑の服の人",
-  "head_x": 523.7,
-  "head_y": 137.9,
-  "head_px": 12.8,
-  "images": {
-   "d0": "I15_d0.jpg",
-   "down1": "I15_down1.jpg",
-   "down1_r": "I15_down1_r.jpg",
-   "down2": "I15_down2.jpg",
-   "down2_r": "I15_down2_r.jpg",
-   "down3": "I15_down3.jpg",
-   "down3_r": "I15_down3_r.jpg",
-   "down4": "I15_down4.jpg",
-   "down4_r": "I15_down4_r.jpg",
-   "blur1": "I15_blur1.jpg",
-   "blur1_r": "I15_blur1_r.jpg",
-   "blur2": "I15_blur2.jpg",
-   "blur2_r": "I15_blur2_r.jpg",
-   "blur3": "I15_blur3.jpg",
-   "blur3_r": "I15_blur3_r.jpg",
-   "blur4": "I15_blur4.jpg",
-   "blur4_r": "I15_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I16",
+  "item_id": "J11",
   "filename": "seq_001704.jpg",
   "frame": 1704,
   "true_count": 22,
   "answer_cell": 9,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "青いシャツの人",
   "head_x": 550.0,
   "head_y": 425.2,
   "head_px": 26.0,
@@ -704,56 +424,12 @@
   }
  },
  {
-  "item_id": "I17",
-  "filename": "seq_001714.jpg",
-  "frame": 1714,
-  "true_count": 31,
-  "answer_cell": 2,
-  "attr_ja": "紺の服の人",
-  "head_x": 389.8,
-  "head_y": 117.7,
-  "head_px": 11.9,
-  "images": {
-   "d0": "I17_d0.jpg",
-   "down1": "I17_down1.jpg",
-   "down1_r": "I17_down1_r.jpg",
-   "down2": "I17_down2.jpg",
-   "down2_r": "I17_down2_r.jpg",
-   "down3": "I17_down3.jpg",
-   "down3_r": "I17_down3_r.jpg",
-   "down4": "I17_down4.jpg",
-   "down4_r": "I17_down4_r.jpg",
-   "blur1": "I17_blur1.jpg",
-   "blur1_r": "I17_blur1_r.jpg",
-   "blur2": "I17_blur2.jpg",
-   "blur2_r": "I17_blur2_r.jpg",
-   "blur3": "I17_blur3.jpg",
-   "blur3_r": "I17_blur3_r.jpg",
-   "blur4": "I17_blur4.jpg",
-   "blur4_r": "I17_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I18",
+  "item_id": "J12",
   "filename": "seq_001750.jpg",
   "frame": 1750,
   "true_count": 29,
   "answer_cell": 9,
-  "attr_ja": "黄の服の人",
+  "attr_ja": "黄色い作業ベストの人",
   "head_x": 579.6,
   "head_y": 449.5,
   "head_px": 27.1,
@@ -792,12 +468,12 @@
   }
  },
  {
-  "item_id": "I19",
+  "item_id": "J13",
   "filename": "seq_001751.jpg",
   "frame": 1751,
   "true_count": 32,
   "answer_cell": 9,
-  "attr_ja": "黄の服の人",
+  "attr_ja": "黄色い作業ベストの人",
   "head_x": 554.0,
   "head_y": 365.3,
   "head_px": 23.2,
@@ -836,12 +512,12 @@
   }
  },
  {
-  "item_id": "I20",
+  "item_id": "J14",
   "filename": "seq_001757.jpg",
   "frame": 1757,
   "true_count": 39,
   "answer_cell": 3,
-  "attr_ja": "黄の服の人",
+  "attr_ja": "緑色の上着の人",
   "head_x": 492.8,
   "head_y": 123.1,
   "head_px": 12.1,
@@ -880,144 +556,12 @@
   }
  },
  {
-  "item_id": "I21",
-  "filename": "seq_001822.jpg",
-  "frame": 1822,
-  "true_count": 34,
-  "answer_cell": 4,
-  "attr_ja": "紺の服の人",
-  "head_x": 103.3,
-  "head_y": 226.0,
-  "head_px": 16.8,
-  "images": {
-   "d0": "I21_d0.jpg",
-   "down1": "I21_down1.jpg",
-   "down1_r": "I21_down1_r.jpg",
-   "down2": "I21_down2.jpg",
-   "down2_r": "I21_down2_r.jpg",
-   "down3": "I21_down3.jpg",
-   "down3_r": "I21_down3_r.jpg",
-   "down4": "I21_down4.jpg",
-   "down4_r": "I21_down4_r.jpg",
-   "blur1": "I21_blur1.jpg",
-   "blur1_r": "I21_blur1_r.jpg",
-   "blur2": "I21_blur2.jpg",
-   "blur2_r": "I21_blur2_r.jpg",
-   "blur3": "I21_blur3.jpg",
-   "blur3_r": "I21_blur3_r.jpg",
-   "blur4": "I21_blur4.jpg",
-   "blur4_r": "I21_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I22",
-  "filename": "seq_001887.jpg",
-  "frame": 1887,
-  "true_count": 29,
-  "answer_cell": 4,
-  "attr_ja": "緑の服の人",
-  "head_x": 119.1,
-  "head_y": 227.4,
-  "head_px": 16.9,
-  "images": {
-   "d0": "I22_d0.jpg",
-   "down1": "I22_down1.jpg",
-   "down1_r": "I22_down1_r.jpg",
-   "down2": "I22_down2.jpg",
-   "down2_r": "I22_down2_r.jpg",
-   "down3": "I22_down3.jpg",
-   "down3_r": "I22_down3_r.jpg",
-   "down4": "I22_down4.jpg",
-   "down4_r": "I22_down4_r.jpg",
-   "blur1": "I22_blur1.jpg",
-   "blur1_r": "I22_blur1_r.jpg",
-   "blur2": "I22_blur2.jpg",
-   "blur2_r": "I22_blur2_r.jpg",
-   "blur3": "I22_blur3.jpg",
-   "blur3_r": "I22_blur3_r.jpg",
-   "blur4": "I22_blur4.jpg",
-   "blur4_r": "I22_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I23",
-  "filename": "seq_001971.jpg",
-  "frame": 1971,
-  "true_count": 29,
-  "answer_cell": 1,
-  "attr_ja": "青の服の人",
-  "head_x": 123.0,
-  "head_y": 100.5,
-  "head_px": 11.1,
-  "images": {
-   "d0": "I23_d0.jpg",
-   "down1": "I23_down1.jpg",
-   "down1_r": "I23_down1_r.jpg",
-   "down2": "I23_down2.jpg",
-   "down2_r": "I23_down2_r.jpg",
-   "down3": "I23_down3.jpg",
-   "down3_r": "I23_down3_r.jpg",
-   "down4": "I23_down4.jpg",
-   "down4_r": "I23_down4_r.jpg",
-   "blur1": "I23_blur1.jpg",
-   "blur1_r": "I23_blur1_r.jpg",
-   "blur2": "I23_blur2.jpg",
-   "blur2_r": "I23_blur2_r.jpg",
-   "blur3": "I23_blur3.jpg",
-   "blur3_r": "I23_blur3_r.jpg",
-   "blur4": "I23_blur4.jpg",
-   "blur4_r": "I23_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I24",
+  "item_id": "J15",
   "filename": "seq_001977.jpg",
   "frame": 1977,
   "true_count": 30,
   "answer_cell": 9,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "青いパーカーの人",
   "head_x": 575.8,
   "head_y": 398.2,
   "head_px": 24.7,
@@ -1056,12 +600,12 @@
   }
  },
  {
-  "item_id": "I25",
+  "item_id": "J16",
   "filename": "seq_001981.jpg",
   "frame": 1981,
   "true_count": 29,
   "answer_cell": 6,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "青いシャツの人",
   "head_x": 574.5,
   "head_y": 206.3,
   "head_px": 15.9,
@@ -1100,12 +644,12 @@
   }
  },
  {
-  "item_id": "I26",
+  "item_id": "J17",
   "filename": "seq_001982.jpg",
   "frame": 1982,
   "true_count": 34,
   "answer_cell": 6,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "青いシャツの人",
   "head_x": 550.8,
   "head_y": 185.3,
   "head_px": 15.0,
@@ -1144,56 +688,12 @@
   }
  },
  {
-  "item_id": "I27",
-  "filename": "seq_001986.jpg",
-  "frame": 1986,
-  "true_count": 31,
-  "answer_cell": 3,
-  "attr_ja": "紺の服の人",
-  "head_x": 535.0,
-  "head_y": 132.7,
-  "head_px": 12.5,
-  "images": {
-   "d0": "I27_d0.jpg",
-   "down1": "I27_down1.jpg",
-   "down1_r": "I27_down1_r.jpg",
-   "down2": "I27_down2.jpg",
-   "down2_r": "I27_down2_r.jpg",
-   "down3": "I27_down3.jpg",
-   "down3_r": "I27_down3_r.jpg",
-   "down4": "I27_down4.jpg",
-   "down4_r": "I27_down4_r.jpg",
-   "blur1": "I27_blur1.jpg",
-   "blur1_r": "I27_blur1_r.jpg",
-   "blur2": "I27_blur2.jpg",
-   "blur2_r": "I27_blur2_r.jpg",
-   "blur3": "I27_blur3.jpg",
-   "blur3_r": "I27_blur3_r.jpg",
-   "blur4": "I27_blur4.jpg",
-   "blur4_r": "I27_blur4_r.jpg"
-  },
-  "levels": {
-   "down": [
-    2,
-    6,
-    11,
-    16
-   ],
-   "blur": [
-    1.0,
-    3.0,
-    6.0,
-    10.0
-   ]
-  }
- },
- {
-  "item_id": "I28",
+  "item_id": "J18",
   "filename": "seq_001988.jpg",
   "frame": 1988,
   "true_count": 26,
   "answer_cell": 3,
-  "attr_ja": "紺の服の人",
+  "attr_ja": "青いシャツの人",
   "head_x": 511.4,
   "head_y": 105.8,
   "head_px": 11.3,
