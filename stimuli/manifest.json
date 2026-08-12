@@ -33,7 +33,7 @@
   "head_y": 317.6,
   "head_px": 21.0,
   "item_id": "M02",
-  "attr_nocolor": "ストライプ模様の服の人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -148,7 +148,7 @@
   "head_x": 252.7,
   "head_y": 367.3,
   "head_px": 23.3,
-  "attr_nocolor": "ストライプ模様の服の人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -263,7 +263,7 @@
   "head_y": 391.0,
   "head_px": 24.4,
   "item_id": "M08",
-  "attr_nocolor": "フード付きコートの人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -288,7 +288,7 @@
   "head_x": 287.5,
   "head_y": 346.5,
   "head_px": 22.3,
-  "attr_nocolor": "ストライプ模様の服の人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -313,7 +313,7 @@
   "head_y": 390.3,
   "head_px": 24.4,
   "item_id": "M10",
-  "attr_nocolor": "フード付きコートの人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -338,7 +338,7 @@
   "head_x": 311.0,
   "head_y": 353.9,
   "head_px": 22.7,
-  "attr_nocolor": "ストライプ模様の服の人",
+  "attr_nocolor": "",
   "levels": {
    "down": [
     6,
@@ -903,5 +903,205 @@
    ]
   },
   "attr_nocolor": ""
+ },
+ {
+  "filename": "seq_001041.jpg",
+  "true_count": 34,
+  "answer_cell": 9,
+  "attr_ja": "ベビーカーを押している人",
+  "attr_nocolor": "ベビーカーを押している人",
+  "head_x": 556.3,
+  "head_y": 425.6,
+  "head_px": 26.0,
+  "item_id": "M26",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_001077.jpg",
+  "true_count": 29,
+  "answer_cell": 9,
+  "attr_ja": "ベビーカーを押している人",
+  "attr_nocolor": "ベビーカーを押している人",
+  "head_x": 542.7,
+  "head_y": 372.6,
+  "head_px": 23.5,
+  "item_id": "M27",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000007.jpg",
+  "true_count": 28,
+  "answer_cell": 6,
+  "attr_ja": "杖をついた男性",
+  "attr_nocolor": "杖をついた男性",
+  "head_x": 544.0,
+  "head_y": 215.0,
+  "head_px": 16.0,
+  "item_id": "M28",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000028.jpg",
+  "true_count": 41,
+  "answer_cell": 3,
+  "attr_ja": "小さな子ども",
+  "attr_nocolor": "小さな子ども",
+  "head_x": 462.0,
+  "head_y": 129.0,
+  "head_px": 12.0,
+  "item_id": "M29",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000037.jpg",
+  "true_count": 33,
+  "answer_cell": 6,
+  "attr_ja": "赤い物を持った小さな子ども",
+  "attr_nocolor": "物を持った小さな子ども",
+  "head_x": 460.0,
+  "head_y": 233.0,
+  "head_px": 17.0,
+  "item_id": "M30",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000047.jpg",
+  "true_count": 17,
+  "answer_cell": 5,
+  "attr_ja": "両手に荷物を持った人",
+  "attr_nocolor": "両手に荷物を持った人",
+  "head_x": 249.0,
+  "head_y": 238.0,
+  "head_px": 17.0,
+  "item_id": "M31",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000056.jpg",
+  "true_count": 19,
+  "answer_cell": 2,
+  "attr_ja": "1人で立っている小さな子ども",
+  "attr_nocolor": "1人で立っている小さな子ども",
+  "head_x": 399.0,
+  "head_y": 116.0,
+  "head_px": 12.0,
+  "item_id": "M32",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
+ },
+ {
+  "filename": "seq_000145.jpg",
+  "true_count": 23,
+  "answer_cell": 6,
+  "attr_ja": "黒いリュックを背負った人",
+  "attr_nocolor": "リュックを背負った人",
+  "head_x": 480.0,
+  "head_y": 264.0,
+  "head_px": 19.0,
+  "item_id": "M33",
+  "levels": {
+   "down": [
+    6,
+    9,
+    16,
+    25
+   ],
+   "blur": [
+    3.0,
+    4.7,
+    7.9,
+    12.6
+   ]
+  }
  }
 ]
